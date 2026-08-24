@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:39:51.252Z",
+  "generated_at": "2026-08-24T08:04:33.656Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -8512,8 +8512,8 @@
       "treatments": [
         "Scorpionic"
       ],
-      "lat": null,
-      "lng": null,
+      "lat": -18.6917101658073,
+      "lng": -49.9452316761017,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -13250,8 +13250,8 @@
         "Phoneutric",
         "Lonomic"
       ],
-      "lat": null,
-      "lng": null,
+      "lat": -5.91638865441381,
+      "lng": -39.265673160553,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
