@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T12:04:45.070Z",
-  "run_id": "2026-09-02T11-57-09-835Z",
+  "generated_at": "2026-09-03T12:03:41.413Z",
+  "run_id": "2026-09-03T11-56-01-470Z",
   "totals": {
     "hospitais": 2342,
     "ciatox": 32,
@@ -22,163 +22,163 @@
     {
       "state_code": "AC",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:53.913198+00:00",
+      "synced_at": "2026-09-03T07:58:24.723476+00:00",
       "updated_at": null
     },
     {
       "state_code": "AL",
       "status": "ok",
-      "synced_at": "2026-09-02T07:46:50.426945+00:00",
+      "synced_at": "2026-09-03T07:56:57.952718+00:00",
       "updated_at": null
     },
     {
       "state_code": "AM",
       "status": "ok",
-      "synced_at": "2026-09-02T07:47:10.81408+00:00",
+      "synced_at": "2026-09-03T07:57:24.97238+00:00",
       "updated_at": null
     },
     {
       "state_code": "AP",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:42.711458+00:00",
+      "synced_at": "2026-09-03T07:58:09.697544+00:00",
       "updated_at": null
     },
     {
       "state_code": "BA",
       "status": "ok",
-      "synced_at": "2026-09-02T07:52:06.121222+00:00",
+      "synced_at": "2026-09-03T08:02:24.361184+00:00",
       "updated_at": null
     },
     {
       "state_code": "CE",
       "status": "ok",
-      "synced_at": "2026-09-02T07:51:20.374963+00:00",
+      "synced_at": "2026-09-03T08:01:25.26302+00:00",
       "updated_at": null
     },
     {
       "state_code": "DF",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:44.216591+00:00",
+      "synced_at": "2026-09-03T07:56:52.173825+00:00",
       "updated_at": null
     },
     {
       "state_code": "ES",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:55.344007+00:00",
+      "synced_at": "2026-09-03T07:58:56.96833+00:00",
       "updated_at": null
     },
     {
       "state_code": "GO",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:03.204464+00:00",
+      "synced_at": "2026-09-03T07:55:55.730366+00:00",
       "updated_at": null
     },
     {
       "state_code": "MA",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:36.229128+00:00",
+      "synced_at": "2026-09-03T08:01:12.889402+00:00",
       "updated_at": null
     },
     {
       "state_code": "MG",
       "status": "ok",
-      "synced_at": "2026-09-02T07:53:14.194433+00:00",
+      "synced_at": "2026-09-03T08:03:53.481138+00:00",
       "updated_at": null
     },
     {
       "state_code": "MS",
       "status": "ok",
-      "synced_at": "2026-09-02T07:51:06.321606+00:00",
+      "synced_at": "2026-09-03T07:58:41.612759+00:00",
       "updated_at": null
     },
     {
       "state_code": "MT",
       "status": "ok",
-      "synced_at": "2026-09-02T07:52:23.6747+00:00",
+      "synced_at": "2026-09-03T08:02:47.233227+00:00",
       "updated_at": null
     },
     {
       "state_code": "PA",
       "status": "ok",
-      "synced_at": "2026-09-02T07:49:20.377169+00:00",
+      "synced_at": "2026-09-03T07:59:31.621523+00:00",
       "updated_at": null
     },
     {
       "state_code": "PB",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:47.169937+00:00",
+      "synced_at": "2026-09-03T07:58:15.723281+00:00",
       "updated_at": null
     },
     {
       "state_code": "PE",
       "status": "ok",
-      "synced_at": "2026-09-02T07:53:23.040001+00:00",
+      "synced_at": "2026-09-03T08:04:07.063495+00:00",
       "updated_at": null
     },
     {
       "state_code": "PI",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:08.074707+00:00",
+      "synced_at": "2026-09-03T07:56:02.402571+00:00",
       "updated_at": null
     },
     {
       "state_code": "PR",
       "status": "ok",
-      "synced_at": "2026-09-02T07:47:36.755509+00:00",
+      "synced_at": "2026-09-03T07:58:00.907471+00:00",
       "updated_at": null
     },
     {
       "state_code": "RJ",
       "status": "ok",
-      "synced_at": "2026-09-02T07:46:57.272252+00:00",
+      "synced_at": "2026-09-03T07:57:06.66979+00:00",
       "updated_at": null
     },
     {
       "state_code": "RN",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:49.168311+00:00",
+      "synced_at": "2026-09-03T07:58:18.283659+00:00",
       "updated_at": null
     },
     {
       "state_code": "RO",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:12.410969+00:00",
+      "synced_at": "2026-09-03T08:00:41.133733+00:00",
       "updated_at": null
     },
     {
       "state_code": "RR",
       "status": "ok",
-      "synced_at": "2026-09-02T07:51:11.115838+00:00",
+      "synced_at": "2026-09-03T08:04:13.527557+00:00",
       "updated_at": null
     },
     {
       "state_code": "RS",
       "status": "ok",
-      "synced_at": "2026-09-02T07:47:48.185797+00:00",
+      "synced_at": "2026-09-03T07:55:34.757484+00:00",
       "updated_at": null
     },
     {
       "state_code": "SC",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:33.842963+00:00",
+      "synced_at": "2026-09-03T07:56:37.737355+00:00",
       "updated_at": null
     },
     {
       "state_code": "SE",
       "status": "ok",
-      "synced_at": "2026-09-02T07:53:18.641433+00:00",
+      "synced_at": "2026-09-03T08:04:00.929736+00:00",
       "updated_at": null
     },
     {
       "state_code": "SP",
       "status": "ok",
-      "synced_at": "2026-09-02T07:50:04.407409+00:00",
+      "synced_at": "2026-09-03T08:00:31.006038+00:00",
       "updated_at": null
     },
     {
       "state_code": "TO",
       "status": "ok",
-      "synced_at": "2026-09-02T07:48:40.496815+00:00",
+      "synced_at": "2026-09-03T07:56:46.980154+00:00",
       "updated_at": null
     }
   ],
