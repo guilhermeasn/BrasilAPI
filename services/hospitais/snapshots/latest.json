@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:53:48.839Z",
+  "generated_at": "2026-09-28T15:05:37.803Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -43706,8 +43706,8 @@
         "Bothropic",
         "Scorpionic"
       ],
-      "lat": null,
-      "lng": null,
+      "lat": -10.6133528,
+      "lng": -62.7333446,
       "extraction_source": "pdf_text",
       "ocr_confidence": null,
       "requires_verification": false,
@@ -43748,7 +43748,7 @@
       "city": "Ji-Paraná",
       "name": "UPA - Anna Beatriz Oliveira Da Silva",
       "address": "Rua Sena Madureira, 99, Bairro São Pedro",
-      "phones": null,
+      "phones": "6934164052",
       "cnes": "506745",
       "treatments": [
         "Bothropic",
@@ -44041,7 +44041,7 @@
       "state_code": "RO",
       "city": "Vale Do Paraíso",
       "name": "Hospital De Pequeno Porte Isabel Batista De Oliveira",
-      "address": null,
+      "address": "AVENIDA RONDONIA, 1967, SETOR 04",
       "phones": "(69) 34641273",
       "cnes": "2744422",
       "treatments": [
@@ -46945,7 +46945,7 @@
       "city": "JOÃO PESSOA",
       "name": "HOSPITAL SAO VICENTE DE PAULO",
       "address": "AVENIDA JOAO MACHADO, 1234, CENTRO",
-      "phones": null,
+      "phones": "83 2107-9500",
       "cnes": "2399776",
       "treatments": [],
       "lat": -7.126492,
