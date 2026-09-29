@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:05:37.803Z",
+  "generated_at": "2026-09-29T13:52:33.523Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -43748,7 +43748,7 @@
       "city": "Ji-Paraná",
       "name": "UPA - Anna Beatriz Oliveira Da Silva",
       "address": "Rua Sena Madureira, 99, Bairro São Pedro",
-      "phones": "6934164052",
+      "phones": null,
       "cnes": "506745",
       "treatments": [
         "Bothropic",
@@ -44041,7 +44041,7 @@
       "state_code": "RO",
       "city": "Vale Do Paraíso",
       "name": "Hospital De Pequeno Porte Isabel Batista De Oliveira",
-      "address": "AVENIDA RONDONIA, 1967, SETOR 04",
+      "address": null,
       "phones": "(69) 34641273",
       "cnes": "2744422",
       "treatments": [
