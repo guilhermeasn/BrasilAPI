@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:10:23.353Z",
+  "generated_at": "2026-10-05T15:41:35.705Z",
   "coletado_de": "https://api.mapasus.com.br",
   "hospitais": [
     {
@@ -53434,7 +53434,7 @@
       "city": "Lagarto",
       "name": "Hospital de Amor Interestadual de Lagarto",
       "address": "AV HOSPITAL DO AMOR, 13, ZONA E 04",
-      "phones": null,
+      "phones": "17 33216600",
       "cnes": "4586298",
       "treatments": [],
       "lat": -10.9052061069634,
